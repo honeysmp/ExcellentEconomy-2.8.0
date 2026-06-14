@@ -27,7 +27,7 @@ dependencies {
     compileOnly("com.github.MilkBowl:VaultAPI:1.7") {
         exclude(group = "org.bukkit", module = "bukkit")
     }
-    compileOnly("su.nightexpress.nightcore:main:2.16.2")
+    compileOnly("libs/nightcore-main-2.16.2.jar")
     compileOnly("me.clip:placeholderapi:2.11.6")
     compileOnly("org.black_ixx:playerpoints:3.0.0")
 }
