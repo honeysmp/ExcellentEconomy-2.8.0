@@ -1,6 +1,7 @@
 main: su.nightexpress.excellenteconomy.EconomyPlugin
 version: '${version}'
 name: ExcellentEconomy
+folia-supported: true
 author: NightExpress
 desciption: A modern, lightweight economy plugin that lets you create unlimited custom currencies. 
 load: STARTUP
